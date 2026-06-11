@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Comment s'appelle le loup géant de Jon Snow ?",
+    "reponses": [
+      "Vent Gris",
+      "Nymeria",
+      "Fantôme",
+      "Eté"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "question": "Quel dragon a élevé Natsu ?",
+    "reponses": [
+      "Acnologia",
+      "Metalicana",
+      "Ignir",
+      "Grandine"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "question": "Quel est le nom de la ville principale de GTA V?",
+    "reponses": [
+      "Vice City",
+      "Lberty City",
+      "Los Santos",
+      "San Fierro"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "question": "Quel film n'a pas réalisé Steven Spielberg ?",
+    "reponses": [
+      "Firelight",
+      "Memento",
+      "Pentagon Papers",
+      "1941"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Qui est l'acteur du film Indiana Jones ?",
+    "reponses": [
+      "Harrison Ford",
+      "Ryan Gosling",
+      "Tommy Lee Jones",
+      "Jodie Foster"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "question": "Qui a fait la trilogie The Dark Knight ?",
+    "reponses": [
+      "Spielberg",
+      "Matt Reeves",
+      "Christopher Nolan",
+      "Andy Serkis"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "question": "Quel est le premier film de Fede Alvarez ?",
+    "reponses": [
+      "Alien: Romulus",
+      "Don't Breathe",
+      "Millénium",
+      "Evil Dead"
+    ],
+    "bonne_reponse": 4
+  },
+  {
+    "question": "Dans quel film de Martin Scorsese on entend la réplique culte « c'est à moi que tu parles ; You talking to me » ?",
+    "reponses": [
+      "Taxi Driver",
+      "Les Affranchis",
+      "Shutter Island",
+      "The Irishman"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "question": "Dans les deux derniers films Bad Boys, quel réalisateur apparaît en tant qu'apparence spéciale ?",
+    "reponses": [
+      "James Wan",
+      "Michael Bay",
+      "Shawn Levy",
+      "David Leitch"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Combien a rapporté au Box-office Avatar 2 ?",
+    "reponses": [
+      "1,8 milliards",
+      "2,1 milliards",
+      "2,2 milliards",
+      "2,3 milliards"
+    ],
+    "bonne_reponse": 4
+  },
+  {
+    "question": "Comment se nomme le créateur de la série Breaking Bad ?",
+    "reponses": [
+      "Chris Carter",
+      "Peter Gould",
+      "Vince Gilligan",
+      "Bryan Cranston"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "question": "Combien de saisons a duré Game of Thrones ?",
+    "reponses": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "question": "Comment s'appelle le doubleur français de Cartman dans South Park ?",
+    "reponses": [
+      "Thierry Wermuth",
+      "William Coryn",
+      "Christophe Lemoine",
+      "Alain Dorval"
+    ],
+    "bonne_reponse": 3
+  },
+  [
+  {
+    "question": "Combien de saisons comporte Grey's Anatomy actuellement ?",
+    "reponses": [
+      "21",
+      "8",
+      "23",
+      "187"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Quelle série TV n'était pas dans la trilogie du samedi ?",
+    "reponses": [
+      "Charmed",
+      "Stargate",
+      "The Sentinel",
+      "Buffy contre les vampires"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Comment se nomme la série où les personnages sont des animaux et le personnage principal est incarné par un cheval ?",
+    "reponses": [
+      "Simpson",
+      "Bojack Horseman",
+      "Bob's Burger",
+      "South Park"
+    ],
+    "bonne_reponse": 1
+  },
+  [
+  {
+    "question": "Dans quelle célèbre série jouait Chuck Norris ?",
+    "reponses": [
+      "Walker Texas Ranger",
+      "Yellow Stone",
+      "Silo",
+      "Hell on Wheels"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "question": "Quelle série à remporter les Goldens Globes 2025 ?",
+    "reponses": [
+      "Slow Horses",
+      "La Diplomate (The Diplomat)",
+      "Shogun",
+      "Squid Game"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Comment s'appel le personnage principal dans le Manga Naruto ?",
+    "reponses": [
+      "Naruto",
+      "Sasuke",
+      "Ichigo",
+      "Luffy"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "question": "Combien de tome possède actuellement le manga Detective Conan ?",
+    "reponses": [
+      "105",
+      "106",
+      "107",
+      "108"
+    ],
+    "bonne_reponse": 3
+  },[
+  {
+    "question": "Quel est le manga le plus vendu au monde ?",
+    "reponses": [
+      "Dragon Ball",
+      "Naruto",
+      "One piece",
+      "Demon Slayer"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "question": "Qui a écrit la saga littéraire du trône de fer (Game of thrones) ?",
+    "reponses": [
+      "J. K. Rowling",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Stephen King"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "question": "De quelle nationalité est l'auteur de la bande dessinée Tintin ?",
+    "reponses": [
+      "Belge",
+      "Français",
+      "Suisse",
+      "Canadien"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "question": "Dans quel pays se déroule principalement l'action de la bande dessinée Astérix ?",
+    "reponses": [
+      "Italie",
+      "Gaule (France)",
+      "Espagne",
+      "Grande-Bretagne"
+    ],
+    "bonne_reponse": 1
+  }
+]
+]
+]
+]
