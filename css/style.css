@@ -1,6 +1,7 @@
 body {
     background-color: #0b0612;
     background-image: url('/assets/background.png');
+    background-position: center;
     background-size: cover;
     color: #fff;
     font-family: 'Rajdhani', sans-serif;
@@ -11,7 +12,7 @@ body {
 }
 
 nav li:hover{
-    color: #00f0ff ;
+    color: #ffffff ;
     cursor: pointer;
 }
 
@@ -214,6 +215,76 @@ background: rgba(20, 15, 35, 0.65);
     color: #e6fff9;
     text-shadow: 0 0 5px #fff, 0 0 10px #00ffcc, 0 0 20px #00ffcc;
 }
+
+.scoreQuiz{
+    background: rgba(20, 15, 35, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 24px;
+  border: 2px solid transparent;
+  background-image: 
+  linear-gradient(rgba(20, 15, 35, 0.85), rgba(20, 15, 35, 0.85)), 
+  linear-gradient(135deg, #00f0ff 0%, #ff00d0 100%);
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  box-shadow: 0 20px 20px rgba(0, 240, 255, 0.2), 0 0 40px rgba(255, 0, 208, 0.2);
+  margin: 5%;
+  height: 100%;
+}
+
+.scoreQuiz p {
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+hr {
+    height: 3px; 
+    border: none;
+    background-color: #00f0ff;
+    box-shadow: 0 0 8px #00f0ff;
+    width: 80%; 
+    margin: 20px auto;
+ }
+
+ .score-text{
+    font-size: 2.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ffbdf4;
+    text-shadow: 
+        0 0 5px #ff66d8, 
+        0 0 15px #e033b5, 
+        0 0 30px #b01087;
+ }
+
+ .score-answer{
+  color: #e6ffff;
+  text-shadow: 
+        0 0 5px #33f0ff, 
+        0 0 15px #00bfff, 
+        0 0 30px #0077b3;
+ }
+
+ .scoreQuiz .tiger{
+    font-size: 2.5rem;
+ }
+ 
+ .scoreScreen h1{
+    font-size: 3rem;
+ }
+
+ .scoreScreen h2{
+    font-size: 1.5rem;
+ }
+
+ button{
+    display: flex;
+    background-color: #0d0b14; 
+    color: #e6ffff;
+ }
+
+
 
 @media (max-width: 768px) {
 
