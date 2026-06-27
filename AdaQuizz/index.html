@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+        <ul>
+            <li><img src="/assets/logo_sun.png" alt="logo gaming"></li> 
+            <li>Acceuil</li>
+            <li>Classement</li>
+            <li>Profil</li>
+        </ul>
+    </nav>
+    <h1>Geek Cosmos</h1>
+    <h2>🤯 Bienvenue dans la Cité de la Culture 🤯</h2>
+</header>
+    <main class="quiz-container">
+        <section id="ecran-accueil" class="ecran">
+            <article class="cardSerie">
+                <h2> Series & Films</h2>
+                <p> Explorer le grand et le petit ecran</p>
+                <button class="start" id="start-series-films">Start</button>
+            </article> 
+            <article class="cardManga">
+                <h2> Mangas & Anime</h2>
+                <p> Maitriser tous l'univers des Mangas & Animes</p>
+               <button class="start" id="start-manga-anime">Start</button>
+            </article>
+            <article class="cardJeux">
+                <h2> Jeux Videos </h2>
+                <p> Pret pour le prochain niveau ? </p>
+                <button class="start" id="start-video-games">Start</button>
+            </article>
+            <article class="cardCulture">
+                <h2>Culture Geek general</h2>
+                <p> Le defi ultime.Maitriser tous les Univers et prouvez votre polyvalence</p>
+                <button class="start" id="start-geek-culture">Start</button>
+            </article>
+        </section>
+    </main>
+
+    <section id="container-question" class="ecran cache hidden">
+        <h1 id="quizz-theme">Theme</h1>
+        <p id="quizz-progress">1/10</p>
+        <h2 class="questions" id="quizz-question-text"></h2>
+        <section id="quizz-responses"></section>
+        <button id="next" class="hidden">Next</button>
+    </section>
+    
+    <section id="ecran-resultats" class="ecran-score cache">
+        <h1>RESULTAT DU QUIZZ - VOTRE SCORE FINAL</h1>
+        <h2>Culture Geek - Votre Bilan </h2>
+        <article class="scoreQuiz">
+            <!-- <p class="score-text">Votre Score Final : 8/10</p>
+            <hr>
+            <p class="score-answer">8 Correctes !</p>
+            <p class="tiger">Tié vraiment un 🦧</p>
+            <p class="tiger"></p>
+            <p class="tiger">🐯 Tié un tigre de Tasmani 🐯</p>  -->
+            <p class="score-text"></p>
+            <hr>
+            <p class="score-answer"></p>
+            <p class="tiger"></p>
+            <button id="restart">Appuie pour retenter ta chance</button> 
+        </article>
+    </section>
+</body>
+</html>
