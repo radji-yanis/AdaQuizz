@@ -218,7 +218,7 @@ btnStartMangaAndAnime.addEventListener("click", () => {
 
 btnStartVideoGames.addEventListener("click", () => {
   indexCourant = 0; score = 0
-  accueil.classList.add("hidden");
+  ecranResultats.classList.add("cache");
   containerQuestion.classList.remove("hidden");
   loadQuestionsForTheme("Jeux Vidéo");
   quizzTheme.textContent = "Jeux Vidéo";
@@ -227,7 +227,7 @@ btnStartVideoGames.addEventListener("click", () => {
 
 btnStartGeekCulture.addEventListener("click", () => {
   indexCourant = 0; score = 0
-  accueil.classList.add("hidden");
+  ecranResultats.classList.add("cache");
   containerQuestion.classList.remove("hidden");
   loadQuestionsForTheme("all");
   quizzTheme.textContent = "Culture Geek general";
