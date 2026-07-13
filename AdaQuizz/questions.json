@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "theme": "Manga & Anime",
+    "question": "Quel dragon a élevé Natsu ?",
+    "reponses": [
+      "Acnologia",
+      "Metalicana",
+      "Ignir",
+      "Grandine"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 2,
+    "theme": "Manga & Anime",
+    "question": "Comment s'appel le personnage principal dans le Manga Naruto ?",
+    "reponses": [
+      "Naruto",
+      "Sasuke",
+      "Ichigo",
+      "Luffy"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 3,
+    "theme": "Manga & Anime",
+    "question": "Combien de tome possède actuellement le manga Detective Conan ?",
+    "reponses": [
+      "105",
+      "106",
+      "107",
+      "108"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 4,
+    "theme": "Manga & Anime",
+    "question": "Quel est le manga le plus vendu au monde ?",
+    "reponses": [
+      "Dragon Ball",
+      "Naruto",
+      "One piece",
+      "Demon Slayer"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 5,
+    "theme": "Manga & Anime",
+    "question": "Comment s'appelle l'élève qui possède une intelligence hors norme et qui a les yeux vairons dans le manga GTO ?",
+    "reponses": [
+      "Miyabi Aizawa",
+      "Tomoko Nomura",
+      "Azusa Fuyutsuki",
+      "Urumi Kanzaki"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 6,
+    "theme": "Manga & Anime",
+    "question": "Qui est le premier enemy affronté par Goku dans Dragon Ball Z ?",
+    "reponses": [
+      "Raditz",
+      "Vegeta",
+      "Nappa",
+      "Ginyu"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 7,
+    "theme": "Manga & Anime",
+    "question": "Dans Bleach, quel mot utilisent les Shinigamis pour activer leur super pouvoir ?",
+    "reponses": [
+      "Kamehameha",
+      "Gom Gom",
+      "Hadouken",
+      "Bankai"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 8,
+    "theme": "Manga & Anime",
+    "question": "À quelle année est sorti le manga (papier) de L'Attaque des Titans ?",
+    "reponses": [
+      "2013",
+      "2016",
+      "2010",
+      "2019"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 9,
+    "theme": "Manga & Anime",
+    "question": "Comment se nomme le chef du Tokyo Manji au début du manga Tokyo Revengers ?",
+    "reponses": [
+      "Ken Ryuguji (Draken)",
+      "Manjiro Sano (Mikey)",
+      "Atsushi Sendo (Akkun)",
+      "Takemichi Hanagaki (Takemichou)"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 10,
+    "theme": "Manga & Anime",
+    "question": "Quel est l'éditeur de l'édition française du manga Berserk ?",
+    "reponses": [
+      "Glénat",
+      "Pika",
+      "Kurokawa",
+      "Crunchyroll"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 11,
+    "theme": "Manga & Anime",
+    "question": "Quel film d'animation japonaise n'a pas été réalisé par Hayao Miyazaki ?",
+    "reponses": [
+      "Le Voyage de Chihiro",
+      "Le Tombeau des lucioles",
+      "Ponyo sur la falaise",
+      "Mes voisins les Yamada"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 12,
+    "theme": "Manga & Anime",
+    "question": "Dans le manga Dandadan, que perd Ken Takakura (Okarun) ?",
+    "reponses": [
+      "Son amie",
+      "Son slip",
+      "Ses cheveux",
+      "Ses roubignolles"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 13,
+    "theme": "Manga & Anime",
+    "question": "Comment s'appelle l'auteur du manga Chainsaw Man ?",
+    "reponses": [
+      "Tatsuki Fujimoto",
+      "Yukinobu Tatsu",
+      "Yuto Suzuki",
+      "Toru Fujisawa"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 14,
+    "theme": "Manga & Anime",
+    "question": "Dans le manga FMA, à quelle date les frères Elric brûlent leur maison d'enfance ?",
+    "reponses": [
+      "2 octobre",
+      "3 octobre",
+      "4 octobre",
+      "5 octobre"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 15,
+    "theme": "Manga & Anime",
+    "question": "Quel est le nom du studio qui fait l'animé Jujutsu Kaisen ?",
+    "reponses": [
+      "Madhouse",
+      "Studio Pierrot",
+      "Mappa",
+      "Bones"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 16,
+    "theme": "Manga & Anime",
+    "question": "Quel est l'éditeur jap du manga Les Carnets de l'Apothicaire ?",
+    "reponses": [
+      "Shueisha",
+      "Shufunotomo",
+      "Bandai",
+      "Shogakukan"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 17,
+    "theme": "Manga & Anime",
+    "question": "Quel est le nom des deux camps qui sont en guerre entre l'est et l'ouest dans le manga Spy x Family ?",
+    "reponses": [
+      "Chine Okochi & Setouchi",
+      "Furuhashi & Katagiri",
+      "Eguchi & Ratsito",
+      "Ostania & Westalis"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 18,
+    "theme": "Manga & Anime",
+    "question": "Qui a écrit la saga littéraire du trône de fer (Game of thrones) ?",
+    "reponses": [
+      "J. K. Rowling",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Stephen King"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 19,
+    "theme": "Manga & Anime",
+    "question": "De quelle nationalité est l'auteur de la bande dessinée Tintin ?",
+    "reponses": [
+      "Belge",
+      "Français",
+      "Suisse",
+      "Canadien"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 20,
+    "theme": "Manga & Anime",
+    "question": "Dans quel pays se déroule principalement l'action de la bande dessinée Astérix ?",
+    "reponses": [
+      "Italie",
+      "Gaule (France)",
+      "Espagne",
+      "Grande-Bretagne"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 21,
+    "theme": "Series & Films",
+    "question": "Quel film n'a pas réalisé Steven Spielberg ?",
+    "reponses": [
+      "Firelight",
+      "Memento",
+      "Pentagon Papers",
+      "1941"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 22,
+     "theme": "Series & Films",
+    "question": "Qui est l'acteur du film Indiana Jones ?",
+    "reponses": [
+      "Harrison Ford",
+      "Ryan Gosling",
+      "Tommy Lee Jones",
+      "Jodie Foster"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 23,
+    "theme": "Series & Films",
+    "question": "Qui a fait la trilogie The Dark Knight ?",
+    "reponses": [
+      "Spielberg",
+      "Matt Reeves",
+      "Christopher Nolan",
+      "Andy Serkis"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 24,
+     "theme": "Series & Films",
+    "question": "Quel est le premier film de Fede Alvarez ?",
+    "reponses": [
+      "Alien: Romulus",
+      "Don't Breathe",
+      "Millénium",
+      "Evil Dead"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 25,
+     "theme": "Series & Films",
+    "question": "Dans quel film de Martin Scorsese on entend la réplique culte « c'est à moi que tu parles ; You talking to me » ?",
+    "reponses": [
+      "Taxi Driver",
+      "Les Affranchis",
+      "Shutter Island",
+      "The Irishman"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 26,
+     "theme": "Series & Films",
+    "question": "Dans les deux derniers films Bad Boys, quel réalisateur apparaît en tant qu'apparence spéciale ?",
+    "reponses": [
+      "James Wan",
+      "Michael Bay",
+      "Shawn Levy",
+      "David Leitch"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 27,
+     "theme": "Series & Films",
+    "question": "Combien a rapporté au Box-office Avatar 2 ?",
+    "reponses": [
+      "1,8 milliards",
+      "2,1 milliards",
+      "2,2 milliards",
+      "2,3 milliards"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 28,
+     "theme": "Series & Films",
+    "question": "Quel est le prénom du sorcier principal dans Harry Potter ?",
+    "reponses": [
+      "Ron",
+      "Harry",
+      "Draco",
+      "Neville"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 29,
+     "theme": "Series & Films",
+    "question": "Qui est le père de Luke Skywalker dans Star Wars ?",
+    "reponses": [
+      "Obi-Wan",
+      "Han Solo",
+      "Dark Vador",
+      "Yoda"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 30,
+     "theme": "Series & Films",
+    "question": "Quel film d’animation met en scène Simba ?",
+    "reponses": [
+      "Tarzan",
+      "Le Roi Lion",
+      "Mulan",
+      "Aladdin"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 31,
+     "theme": "Series & Films",
+    "question": "Quel super-héros est surnommé le Chevalier Noir ?",
+    "reponses": [
+      "Superman",
+      "Flash",
+      "Iron Man",
+      "Batman"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 32,
+     "theme": "Series & Films",
+    "question": "Quel est le nom de l’école des sorciers dans Harry Potter ?",
+    "reponses": [
+      "Poudlard",
+      "Durmstrang",
+      "Beauxbâtons",
+      "Ilvermorny"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 33,
+     "theme": "Series & Films",
+    "question": "Quel acteur interprète Iron Man ?",
+    "reponses": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 34,
+     "theme": "Series & Films",
+    "question": "Dans Friends, combien d’amis composent le groupe principal ?",
+    "reponses": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 35,
+     "theme": "Series & Films",
+    "question": "Quelle série suit les aventures de Walter White ?",
+    "reponses": [
+      "Ozark",
+      "Breaking Bad",
+      "Narcos",
+      "Better Call Saul"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 36,
+     "theme": "Series & Films",
+    "question": "Dans Stranger Things, comment s’appelle la jeune fille aux pouvoirs psychiques ?",
+    "reponses": [
+      "Max",
+      "Nancy",
+      "Onze",
+      "Robin"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 37,
+     "theme": "Series & Films",
+    "question": "Quelle famille règne sur Winterfell dans Game of Thrones ?",
+    "reponses": [
+      "Lannister",
+      "Targaryen",
+      "Stark",
+      "Baratheon"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 38,
+    "theme": "Cinéma",
+    "question": "Comment s'appelle le loup géant de Jon Snow ?",
+    "reponses": [
+      "Vent Gris",
+      "Nymeria",
+      "Fantôme",
+      "Eté"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 39,
+     "theme": "Series & Films",
+    "question": "Comment se nomme le créateur de la série Breaking Bad ?",
+    "reponses": [
+      "Chris Carter",
+      "Peter Gould",
+      "Vince Gilligan",
+      "Bryan Cranston"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 40,
+     "theme": "Series & Films",
+    "question": "Combien de saisons a duré Game of Thrones ?",
+    "reponses": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 41,
+     "theme": "Series & Films",
+    "question": "Comment s'appelle le doubleur français de Cartman dans South Park ?",
+    "reponses": [
+      "Thierry Wermuth",
+      "William Coryn",
+      "Christophe Lemoine",
+      "Alain Dorval"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 42,
+     "theme": "Series & Films",
+    "question": "Combien de saisons comporte Grey's Anatomy actuellement ?",
+    "reponses": [
+      "21",
+      "8",
+      "23",
+      "187"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 43,
+     "theme": "Series & Films",
+    "question": "Quelle série TV n'était pas dans la trilogie du samedi ?",
+    "reponses": [
+      "Charmed",
+      "Stargate",
+      "The Sentinel",
+      "Buffy contre les vampires"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 44,
+     "theme": "Series & Films",
+    "question": "Comment se nomme la série où les personnages sont des animaux et le personnage principal est incarné par un cheval ?",
+    "reponses": [
+      "Simpson",
+      "Bojack Horseman",
+      "Bob's Burger",
+      "South Park"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 45,
+     "theme": "Series & Films",
+    "question": "Dans quelle célèbre série jouait Chuck Norris ?",
+    "reponses": [
+      "Walker Texas Ranger",
+      "Yellow Stone",
+      "Silo",
+      "Hell on Wheels"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 46,
+     "theme": "Series & Films",
+    "question": "Quelle série à remporter les Goldens Globes 2025 ?",
+    "reponses": [
+      "Slow Horses",
+      "La Diplomate (The Diplomat)",
+      "Shogun",
+      "Squid Game"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 47,
+    "theme": "Jeux Vidéo",
+    "question": "Quel est le nom de la ville principale de GTA V?",
+    "reponses": [
+      "Vice City",
+      "Lberty City",
+      "Los Santos",
+      "San Fierro"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 48,
+    "theme": "Jeux Vidéo",
+    "question": "Quel plombier est la mascotte de Nintendo ?",
+    "reponses": [
+      "Luigi",
+      "Mario",
+      "Wario",
+      "Toad"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 49,
+    "theme": "Jeux Vidéo",
+    "question": "Comment s’appelle le frère de Mario ?",
+    "reponses": [
+      "Luigi",
+      "Bowser",
+      "Toad",
+      "Yoshi"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 50,
+    "theme": "Jeux Vidéo",
+    "question": "Quel Pokémon porte le numéro 25 du Pokédex ?",
+    "reponses": [
+      "Évoli",
+      "Salamèche",
+      "Pikachu",
+      "Carapuce"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 51,
+    "theme": "Jeux Vidéo",
+    "question": "Quel héros utilise la Master Sword ?",
+    "reponses": [
+      "Zelda",
+      "Ganondorf",
+      "Link",
+      "Impa"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 52,
+    "theme": "Jeux Vidéo",
+    "question": "Qui doit éliminer les autres joueurs dans Among Us ?",
+    "reponses": [
+      "Le Capitaine",
+      "L’Imposteur",
+      "Le Survivant",
+      "Le Shérif"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 53,
+    "theme": "Jeux Vidéo",
+    "question": "Quel minerai permet de fabriquer les meilleurs outils avant la Netherite dans Minecraft ?",
+    "reponses": [
+      "Fer",
+      "Or",
+      "Émeraude",
+      "Diamant"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 54,
+    "theme": "Jeux Vidéo",
+    "question": "Combien de joueurs participent généralement à une partie de Fortnite ?",
+    "reponses": [
+      "50",
+      "75",
+      "100",
+      "150"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 55,
+    "theme": "Jeux Vidéo",
+    "question": "Quel studio développe la franchise GTA ?",
+    "reponses": [
+      "Ubisoft",
+      "Rockstar Games",
+      "Valve",
+      "EA"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 56,
+    "theme": "Jeux Vidéo",
+    "question": "Quel jeu met en scène Kratos ?",
+    "reponses": [
+      "Assassin’s Creed",
+      "God of War",
+      "Diablo",
+      "Doom"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 57,
+    "theme": "Jeux Vidéo",
+    "question": "Quel est le nom du monde principal de Minecraft ?",
+    "reponses": [
+      "End",
+      "Nether",
+      "Overworld",
+      "Realm"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 58,
+    "theme": "Jeux Vidéo",
+    "question": "Combien de joueurs composent une équipe de League of Legends ?",
+    "reponses": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 59,
+    "theme": "Jeux Vidéo",
+    "question": "Quel FPS met en scène des agents aux pouvoirs spéciaux ?",
+    "reponses": [
+      "Counter-Strike",
+      "Apex Legends",
+      "Rainbow Six Siege",
+      "Valorant"
+    ],
+    "bonne_reponse": 3
+  },
+  {
+    "id": 60,
+    "theme": "Jeux Vidéo",
+    "question": "Quel est le genre principal de Warzone ?",
+    "reponses": [
+      "MOBA",
+      "RPG",
+      "Battle Royale",
+      "Survival"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 61,
+    "theme": "Jeux Vidéo",
+    "question": "Quelle est la mascotte de Sega ?",
+    "reponses": [
+      "Crash Bandicoot",
+      "Kirby",
+      "Sonic",
+      "Spyro"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 62,
+    "theme": "Jeux Vidéo",
+    "question": "Quelle evolution d’Évoli s’obtient avec une Pierre Foudre ?",
+    "reponses": [
+      "Aquali",
+      "Voltali",
+      "Pyroli",
+      "Mentali"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 63,
+    "theme": "Jeux Vidéo",
+    "question": "Dans quel royaume se déroule Hollow Knight ?",
+    "reponses": [
+      "Hallownest",
+      "Lordran",
+      "Hyrule",
+      "Boletaria"
+    ],
+    "bonne_reponse": 0
+  },
+  {
+    "id": 64,
+    "theme": "Jeux Vidéo",
+    "question": "Comment s’appelle le créateur original de Minecraft ?",
+    "reponses": [
+      "Gabe Newell",
+      "Markus Persson",
+      "Todd Howard",
+      "Hideo Kojima"
+    ],
+    "bonne_reponse": 1
+  },
+  {
+    "id": 65,
+    "theme": "Jeux Vidéo",
+    "question": "Combien de badges faut-il obtenir avant la Ligue Pokémon dans Pokémon Rouge/Bleu ?",
+    "reponses": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "bonne_reponse": 2
+  },
+  {
+    "id": 66,
+    "theme": "Jeux Vidéo",
+    "question": "Comment s’appelle le cheval de Geralt dans The Witcher ?",
+    "reponses": [
+      "Tornade",
+      "Éclair",
+      "Ablette",
+      "Shadow"
+    ],
+    "bonne_reponse": 2
+  }
+]
