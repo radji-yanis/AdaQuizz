@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
     <title>Document</title>
 </head>
 <body>
@@ -25,81 +26,50 @@
             <article class="cardSerie">
                 <h2> Series & Films</h2>
                 <p> Explorer le grand et le petit ecran</p>
-                <button class="start">Start</button>
+                <button class="start" id="start-series-films">Start</button>
             </article> 
             <article class="cardManga">
                 <h2> Mangas & Anime</h2>
                 <p> Maitriser tous l'univers des Mangas & Animes</p>
-               <button class="start">Start</button>
+               <button class="start" id="start-manga-anime">Start</button>
             </article>
             <article class="cardJeux">
                 <h2> Jeux Videos </h2>
                 <p> Pret pour le prochain niveau ? </p>
-                <button class="start">Start</button>
+                <button class="start" id="start-video-games">Start</button>
             </article>
             <article class="cardCulture">
                 <h2>Culture Geek general</h2>
                 <p> Le defi ultime.Maitriser tous les Univers et prouvez votre polyvalence</p>
-                <button class="start">Start</button>
+                <button class="start" id="start-geek-culture">Start</button>
             </article>
         </section>
     </main>
-    <section id="ecran-question" class="ecran cache">
-        <h1>Culture Geek General</h1> 
-        <h2 class="questions"> Quel est le manga le plus célèbre au monde ?</h2>
-            <article class="container">
-                <p class="answer"> a : Bla</p>
-                <p class="answer"> b : Bla</p>
-                <p class="answer"> c : Bla</p>
-                <p class="answer"> d : Bla</p>
-                <button>Next</button>
-            </article>
-        </section>
-        <section id="ecran-question" class="ecran cache">
-        <h1 class="sf">Series & Films</h1> 
-        <h2 class="questions"> Blablabla ?</h2>
-            <article class="container">
-                <p class="answer"> a : Bla</p>
-                <p class="answer"> b : Bla</p>
-                <p class="answer"> c : Bla</p>
-                <p class="answer"> d : Bla</p>
-                <button>Next</button>
-            </article>
-        </section>
-        <section id="ecran-question" class="ecran cache">
-        <h1 class="ma">Mangas & Animes</h1> 
-        <h2 class="questions"> Blablabla ?</h2>
-            <article class="container">
-                <p class="answer"> a : Bla</p>
-                <p class="answer"> b : Bla</p>
-                <p class="answer"> c : Bla</p>
-                <p class="answer"> d : Bla</p>
-                <button>Next</button>
-            </article>
-        </section>
-        <section id="ecran-question" class="ecran cache">
-        <h1 class="jv">Jeux Videos</h1> 
-        <h2 class="questions"> Blablabla ?</h2>
-            <article class="container">
-                <p class="answer"> a : Bla</p>
-                <p class="answer"> b : Bla</p>
-                <p class="answer"> c : Bla</p>
-                <p class="answer"> d : Bla</p>
-                <button>Next</button>
-            </article>
-        </section>
-        <section id="ecran-resultats" class="ecran-cache-score">
-            <h1>RESULTAT DU QUIZZ - VOTRE SCORE FINAL</h1>
-            <h2>Culture Geek - Votre Bilan </h2>
-            <article class="scoreQuiz">
-                <p class="score-text">Votre Score Final : 8/10</p>
-                <hr>
-                <p class="score-answer">8 Correctes !</p>
-                <p class="tiger">Tié vraiment un 🦧</p>
-                <p class="tiger">Tié un 🐱 continue comme ca</p>
-                <p class="tiger">🐯 Tié un tigre de Tasmani 🐯</p>
-                <button>Appuie pour retenter ta chance</button>
-            </article>
-        </section>
+
+    <section id="container-question" class="ecran cache hidden">
+        <h1 id="quizz-theme">Theme</h1>
+        <p id="quizz-progress">1/10</p>
+        <h2 class="questions" id="quizz-question-text"></h2>
+        <section id="quizz-responses"></section>
+        <button id="next" class="hidden">Next</button>
+    </section>
+    
+    <section id="ecran-resultats" class="ecran-score cache">
+        <h1>RESULTAT DU QUIZZ - VOTRE SCORE FINAL</h1>
+        <h2>Culture Geek - Votre Bilan </h2>
+        <article class="scoreQuiz">
+            <!-- <p class="score-text">Votre Score Final : 8/10</p>
+            <hr>
+            <p class="score-answer">8 Correctes !</p>
+            <p class="tiger">Tié vraiment un 🦧</p>
+            <p class="tiger"></p>
+            <p class="tiger">🐯 Tié un tigre de Tasmani 🐯</p>  -->
+            <p class="score-text"></p>
+            <hr>
+            <p class="score-answer"></p>
+            <p class="tiger"></p>
+            <button id="restart">Appuie pour retenter ta chance</button> 
+        </article>
+    </section>
 </body>
 </html>
